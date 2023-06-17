@@ -1,0 +1,851 @@
+Skip to content
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* female page start */
+
+/* female page end */
+
+
+
+
+
+/* full main top div anut ************************ */
+
+#maindiv {
+    height: 178px;
+}
+
+body {
+    height: 188px;
+}
+
+#aunt {
+    width: 638px;
+    top: -653px;
+    position: relative;
+    left: 536px;
+}
+
+#aunt:hover {
+    transition-duration: 500ms;
+    width: 658px;
+    top: -653px;
+    position: relative;
+    left: 536px;
+}
+
+@media only screen and (max-width: 972px) {
+    #aunt {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 538px) {
+    #maindiv {
+        margin: 27px;
+    }
+
+    #buttonbalckvcvbf {
+        height: 72px;
+        width: 281px;
+    }
+
+    #shoppddd {
+        top: -9px;
+        position: relative;
+        height: 47px;
+        width: 52px;
+    }
+
+    #shoppingrrr {
+        right: -30px;
+        position: relative;
+    }
+
+    #featured2 {
+        top: -5px;
+        right: -102px;
+        position: relative;
+    }
+
+    #featured3 {
+
+        right: 240px;
+        position: relative;
+        bottom: -51px;
+    }
+
+    #featured4 {
+
+        right: 140px;
+        position: relative;
+        bottom: -51px;
+    }
+}
+
+
+
+/* promotions wala card ************************ */
+
+
+#clothing1 {
+    width: 280px;
+    height: 331px;
+}
+
+#sevenfivedolor {
+    position: relative;
+    right: -10px;
+}
+
+#brotherone {
+    width: 280px;
+    height: 422px;
+    position: relative;
+    bottom: 45px;
+    background-color: #efe1c7;
+}
+
+#brothertwo {
+    width: 280px;
+    height: 422px;
+    position: relative;
+    bottom: 45px;
+    background-color: #d7d7d9;
+}
+
+#promotions {
+    height: 2644px;
+    overflow: hidden;
+    position: relative;
+    bottom: 910px;
+}
+
+#summerseasonimg {
+    width: 260px;
+    height: 200px;
+}
+
+#summerseason {
+    height: 201px;
+    width: 442px;
+    background-color: #D6D6D8;
+}
+
+#summerblackseason {
+    position: relative;
+    bottom: -22px;
+    height: 201px;
+    width: 442px;
+    background-color: #000000;
+}
+
+#carrer {
+    left: 16px;
+}
+
+#quickchat {
+    left: 1px;
+}
+
+#service {
+    left: 5px;
+}
+
+#whatsapp {
+    position: relative;
+    left: -8px;
+}
+
+#cccccvcvfvf {
+    position: relative;
+    bottom: 7px;
+}
+
+#femaleraglanffh {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#firstfirstgirls {
+    position: relative;
+    right: -39px;
+}
+
+#femaleraglanffhuu {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#femaleraglanffhuuu {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#footer {
+    overflow: hidden;
+}
+#footermain {
+    height: 325px;
+    overflow: hidden;
+}
+@media only screen and (max-width: 400px) {
+    #raglanffh{
+        position: relative;
+        top: -1613px;
+    }
+    #firstfirvfgstgirls{
+        opacity: 0;
+    }
+    #secondsegfbhmcognhndgirls{
+        opacity: 0;
+    }
+    #femaleffraglanffhuu {
+        opacity: 0;
+    }
+    #raglagnhgnnffh {
+        opacity: 0;
+    }
+    #raghnhnlanffhuu {
+        opacity: 0;
+    }
+
+    #femaleffraglanffh {
+        opacity: 0;
+    }
+
+    #femaleraglanffhuuu {
+        opacity: 0;
+    }
+
+    #femaleraglanffhuu {
+        position: relative;
+        right: 188px;
+        bottom: 845px;
+    }
+
+    #femaleraglanffh {
+        position: relative;
+        right: -23px;
+        bottom: 1212px;
+    }
+
+    #thirdthirdgirls {
+        opacity: 0;
+        position: relative;
+        right: 621px;
+    }
+
+    #raglanffhuu {
+
+        position: relative;
+        bottom: 1193px;
+        right: 160px;
+    }
+
+    #raglanffhfg {
+        position: relative;
+        right: -27px;
+        bottom: 12px;
+    }
+
+    #secondsecondgirls {
+        position: relative;
+        right: 397px;
+        bottom: 406px;
+    }
+    #secondsecognhndgirls {
+        position: relative;
+        right: 403px;
+        bottom: 1187px;
+    }
+
+    #firstfirstgirls {
+        position: relative;
+        right: 3px;
+        bottom: 1612px;
+    }
+
+    #footer {
+        /* bottom: 102px; */
+        bottom: -2683px;
+
+    }
+    #footermain{
+        bottom: 102px;
+        /* bottom: -2683px; */
+    }
+    #femlaeprouctmaindiv {
+        bottom: 1596px;
+    }
+
+    #femalenavbar {
+        margin-left: 33px;
+        margin-right: 33px;
+        margin-top: 33px;
+    }
+
+    #cartiioiop {
+        position: relative;
+        right: -208px;
+        bottom: 52px;
+    }
+
+    #searchddf {
+        position: relative;
+        left: -142px;
+    }
+
+    #infghghh {
+        position: relative;
+        left: -119px;
+    }
+
+    #gttrttrttrfg {
+        left: -30px;
+        bottom: 138px;
+    }
+
+    #dinemarket {
+        bottom: 16px;
+    }
+
+    #footermainthree {
+        position: relative;
+        bottom: -81px;
+        right: 82px;
+    }
+
+    #footermaintwo {
+        position: relative;
+        bottom: -81px;
+        right: 82px;
+    }
+
+    #footermainone {
+        position: relative;
+        bottom: -39px;
+    }
+
+    #footermainone {
+        position: relative;
+        bottom: -39px;
+    }
+
+    #newsletterinput {
+        width: 304px;
+        position: relative;
+        right: 13px;
+    }
+
+    #prudyttuhjgtgtg {
+        position: relative;
+        bottom: -3010px;
+    }
+
+    #footrtyyubbbbbbtttff {
+        position: relative;
+        left: -37px;
+    }
+
+    #footwerttpfgrgttg {
+        position: relative;
+        right: 37px;
+    }
+
+    #mvingfrt {
+        right: 875px;
+        position: relative;
+        bottom: -3109px;
+
+    }
+
+    #womens {
+        right: 422px;
+        position: relative;
+        bottom: -235px;
+    }
+
+    #uniqueandauthenticinnerdiv {
+        right: 608px;
+        position: relative;
+        bottom: -2270px;
+    }
+
+    #footertopone {
+        position: relative;
+        bottom: -2341px;
+    }
+
+    #footertoptwo {
+
+        position: relative;
+        bottom: -2341px;
+    }
+
+    #secondgirlsss {
+        position: relative;
+        bottom: -430px;
+        right: 266px;
+    }
+    #secondgirls {
+        opacity: 0;
+        position: relative;
+        bottom: -430px;
+        right: 266px;
+    }
+    #thirdgirlsdd {
+        position: relative;
+        bottom: -857px;
+        right: 529px;
+    }
+    #thirdgirls {
+        opacity: 0;
+        position: relative;
+        bottom: -857px;
+        right: 529px;
+    }
+    #raglanffhuudd {
+        position: relative;
+        bottom: -434px;
+        right: 206px
+    }
+    #raglanffhuu {
+
+        position: relative;
+        bottom: 1193px;
+        right: 160px;
+    }
+    #raglanffhuuu {
+        opacity: 0;
+        position: relative;
+        bottom: -864px;
+        right: 505px;
+    }
+    #raglanffhuuudd {
+        position: relative;
+        bottom: -864px;
+        right: 505px;
+    }
+
+    #maingirlsimage {
+        position: relative;
+        bottom: -1423px;
+    }
+   
+    #maingirldfsimage {
+opacity: 0;
+    }
+    #maingirldfsimage {
+opacity: 0;
+    }
+
+    #maingirlstext {
+        position: relative;
+        bottom: -1433px;
+    }
+
+    #maingiffbrlstext {
+opacity: 0;
+    }
+
+    #mainfemalegirlsimage {
+        position: relative;
+        width: 229px;
+        bottom: -1423px;
+    }
+
+    #mainfemalegirlstext {
+        position: relative;
+        bottom: -1433px;
+    }
+
+    #promotions {
+        overflow: visible;
+        position: relative;
+        bottom: 604px;
+    }
+
+    #theertypersantoff {
+        left: 49px;
+    }
+
+    #featured2 {
+        right: -55px;
+    }
+
+    #featured4 {
+        right: 185px;
+    }
+
+    #anindustivfgfg {
+        font-size: 49px;
+    }
+
+    #usepromocode {
+        right: 116px;
+    }
+
+    #forsummerson {
+        opacity: 0;
+    }
+
+    #getuptossitypersantoff {
+        opacity: 0;
+    }
+
+    #brotherone {
+        bottom: 20px;
+        right: 14px;
+        width: 591px;
+    }
+
+    #brothertwo {
+        position: relative;
+        right: 336px;
+        width: 583px;
+        bottom: -418px;
+    }
+
+    #brothersmaindiv {
+        top: 676px;
+        width: 626px;
+        position: relative;
+        right: -1px;
+        bottom: -710px;
+    }
+
+    #summerblackseason {
+        width: 356px;
+        right: 22px;
+        position: relative;
+        bottom: -702px;
+    }
+
+    #dineweekendsale {
+        bottom: -620px;
+        right: -2px;
+    }
+
+    #chotapromotions {
+        right: 4px;
+        position: relative;
+        bottom: -1431px;
+    }
+
+    #barapromotions {
+        right: 7px;
+        bottom: -1462px;
+        position: relative;
+    }
+
+    #summerseasonimg {
+        position: relative;
+        right: 90px;
+    }
+
+    #summerseason {
+        width: 355px;
+        right: 22px;
+        position: relative;
+        bottom: -678px;
+    }
+
+
+}
+
+
+#forsummerson {
+    right: 96px;
+    position: relative;
+    bottom: -101px;
+    font-size: 17px;
+}
+
+/* {section PRODUCTS **************************} */
+
+#raglanffh {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#raglanffhfg {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#raglagnhgnnffh {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#raghnhnlanffhuu {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+    /* {
+    position: relative;
+    right: -35px;
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+} */
+
+#raglanffhuu {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#raglanffhuudd {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#raglanffhuuu {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+#raglanffhuuudd {
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#femaleffraglanffh {
+    position: relative;
+    right: -15px;
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#femaleffraglanffhuu {
+    left: 90px;
+    position: relative;
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#femaleffraglanffhuuu {
+    position: relative;
+    left: 132px;
+    font-weight: 600;
+    color: #212121;
+    margin-top: 0.5rem;
+    line-height: 24px;
+    font-size: 1.1rem;
+    letter-spacing: .03em;
+}
+
+#productsection {
+    position: relative;
+    bottom: 346px;
+}
+
+
+/* footer top******************** 
+********* */
+
+#newsletterform {
+    position: relative;
+    bottom: 334px;
+}
+
+#newsletterinput {
+    padding: 10px 120px 10px 20px;
+    background: #fcfcfc;
+    border: 1px solid gray;
+}
+
+#newslettersubmitbutton {
+    padding: 15px 24px;
+    margin-left: 10px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 600;
+    font-size: .9rem;
+    line-height: 16px;
+}
+
+#newsletter {
+    position: relative;
+    bottom: 334px;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 40px;
+    letter-spacing: .03em;
+    color: #212121;
+}
+
+#newsletterp {
+    position: relative;
+    bottom: 334px;
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 26px;
+    color: #212121;
+}
+
+#uniqueandauthenticinnerdiv {
+    margin-left: 624px;
+    font-weight: 700;
+    font-size: 2.75rem;
+    line-height: 55px;
+    letter-spacing: .03em;
+    color: #212121;
+    width: 45%;
+}
+
+#firstcardmainheading {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 20px;
+    letter-spacing: .03em;
+    color: #212121;
+    margin-bottom: 1rem;
+}
+
+#footertoptwosecondcard {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 20px;
+    letter-spacing: .03em;
+    color: #212121;
+    margin-bottom: 1rem;
+}
+
+#hunderdpersanthandmadeproduct {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 20px;
+    letter-spacing: .03em;
+    color: #212121;
+    margin-bottom: 1rem;
+}
+
+#firstcardinnertext {
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 22px;
+    letter-spacing: .05em;
+    color: #212121;
+}
+
+#womensrigthtextvfgf {
+    position: relative;
+    bottom: 495px;
+    left: 878px;
+}
+
+#womensrigthtextvfgfaatag {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+#womensrigthtextbuttonfdc {
+    font-family: Sora, sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+    background-color: #212121;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: #fff;
+}
+
+#shoppidddfngrrr {
+    position: relative;
+    top: -472px;
+    position: relative;
+    left: 905px;
+}
+
+/* footer **(**************************************/
+
+
+#ul {
+    color: #666;
+}
+
+#footerlinks {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 19px;
+    letter-spacing: .02em;
+    color: #666;
+}
+Copyright © 2023 Vercel Inc. All rights reserved.
+Command Menu
+⌘
+K
+Status:
+All systems normal.
+Home
+Documentation
+Guides
+Help
+Contact Sales
+Blog
+Changelog
+Pricing
+Enterprise
+fullstack-ecommerce – Deployment Source
